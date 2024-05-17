@@ -142,10 +142,9 @@ void loop() {
 ![image](https://github.com/Yt8md/Soil-moisture-sensor-interfacing-with-IoT-controller-and-uploading-the-data-in-the-cloud./assets/144443644/0b3cb609-deb8-4250-8624-e7972b2e8c58)
 
 # OUTPUT:
-![image](https://github.com/Yt8md/Soil-moisture-sensor-interfacing-with-IoT-controller-and-uploading-the-data-in-the-cloud./assets/144443644/e56736ed-4670-4537-b6fc-cbaf7d2e1d0b)
-<br>
 ![image](https://github.com/Yt8md/Soil-moisture-sensor-interfacing-with-IoT-controller-and-uploading-the-data-in-the-cloud./assets/144443644/da20fb34-f865-4eca-ae23-b83fe0952bba)
-
+<br>
+![image](https://github.com/Yt8md/Soil-moisture-sensor-interfacing-with-IoT-controller-and-uploading-the-data-in-the-cloud./assets/144443644/e56736ed-4670-4537-b6fc-cbaf7d2e1d0b)
 
 # RESULT:
 
